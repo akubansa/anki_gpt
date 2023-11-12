@@ -6,8 +6,6 @@ import pyperclip
 #openai.api_key = os.environ["OPENAI_API_KEY"]
 os.environ["HUGGINGFACEHUB_API_TOKEN"] 
 
-#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
-
 #------------wgranie klucza------------
 #echo "export OPENAI_API_KEY=''" >> ~/.zshrc
 #source ~/.zshrc
