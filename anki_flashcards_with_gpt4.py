@@ -9,7 +9,7 @@ os.environ["HUGGINGFACEHUB_API_TOKEN"]
 #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
 
 #------------wgranie klucza------------
-#echo "export OPENAI_API_KEY='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'" >> ~/.zshrc
+#echo "export OPENAI_API_KEY=''" >> ~/.zshrc
 #source ~/.zshrc
 #echo $OPENAI_API_KEY
 
