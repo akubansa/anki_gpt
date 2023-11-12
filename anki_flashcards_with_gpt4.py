@@ -4,7 +4,7 @@ import pyperclip
 
 # Set up OpenAI API key
 #openai.api_key = os.environ["OPENAI_API_KEY"]
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] 
 
 #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
 
