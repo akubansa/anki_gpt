@@ -2,10 +2,13 @@ import os
 import openai
 import pyperclip
 
+from dotenv import load_dotenv
+# pip install python-dotenv==0.21.0
 
 # Set up OpenAI API key
-#openai.api_key = os.environ["OPENAI_API_KEY"]
-openai.api_key = os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+load_dotenv()
+
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 #------------error urllib3-------------
 #pip install urllib3==1.26.16  

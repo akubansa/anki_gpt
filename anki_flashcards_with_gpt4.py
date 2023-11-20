@@ -8,7 +8,6 @@ from dotenv import load_dotenv
 load_dotenv()
 
 openai.api_key = os.environ["OPENAI_API_KEY"]
-#openai.api_key = os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
 
 
 #------------error urllib3-------------
