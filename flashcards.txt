@@ -1,5 +1,172 @@
-Question: Fill in the blank: I ___ you all the best. :: Answer: wish
-Question: Correct the sentence: "I wish I can fly." :: Answer: "I wish I could fly."
-Question: What is the past tense of the word 'wish'? :: Answer: wished
-Question: Construct a sentence using the word 'wish'. :: Answer: I wish I had a pet dog.
-Question: Which word fits this definition - 'A desire or hope for something to happen'? :: Answer: wish
+deprecated
+Question: What's the English sentence using the word 'deprecated'?::Answer: The use of plastic bags has been deprecated due to environmental concerns.
+Question: What does 'deprecated' mean in this sentence?::Answer: It means disapproved of or not recommended.deprecated
+Question: What is the meaning of the word deprecated?::Answer: Deprecated means express disapproval of or discourage from use. 
+Question: Can you use the word deprecated in a sentence?::Answer: The use of harmful chemicals in agriculture is deprecated by environmentalists.
+
+reject
+Question: Fill in the blank. Sam had to ____ the offer due to prior commitments.::Answer: reject
+Question: What is the synonym of refuse that starts with "r"?::Answer: reject
+Question: Translate to English: "Odrzucić" (Polish)::Answer: reject
+Question: Use the word 'reject' in a sentence.::Answer: I had to reject his proposal because it was not feasible.
+
+required
+Question: Complete the sentence: "I ____ your assistance to complete this task." :: Answer: required
+Question: What is the past tense of require? :: Answer: required
+Question: Use 'required' in a sentence. :: Answer: "The teacher required all students to submit their assignments by Friday." 
+Question: Fill in the blank: "A password is ____ to access the system." :: Answer: required
+Question: How would you say, 'His presence is necessary' using the word 'required'? :: Answer: His presence is required.
+
+sales commission
+Question: Use the word "sales commission" in a sentence.::Answer: "The salesperson earns a sales commission for each product they sell."
+Question: What does "sales commission" mean?::Answer: "Sales commission is a sum of money paid to an employee upon completion of a task, usually selling a certain amount of goods or services."
+Question: Give a synonym for "sales commission".::Answer: "Sales bonus is a synonym for sales commission."
+Question: Translate "sales commission" to Polish.::Answer: "Sales commission" in Polish is "prowizja od sprzedaży."
+
+refund
+What is the English sentence using the word "refund"::I would like to get a refund for this dress.
+How to ask for a refund in a question form::Can I get a refund for this ticket?
+Use the word "refund" in a negative sentence::I'm sorry, but we cannot provide a refund for this product.
+Construct a sentence expressing desire for a refund::I wish I could get a refund for this course.
+
+advance payment
+Question: Can you use the term "advance payment" in a sentence?::Answer: "To secure the apartment, the landlord requires an advance payment of two months' rent."
+Question: What does "advance payment" mean?::Answer: "Advance payment is a type of payment made ahead of its normal schedule such as paying for a good, service or obligation before you actually receive it."
+Question: Is the phrase "I made an advance payment for my new car" correct?::Answer: "Yes, it means you paid for the car before actually receiving it."
+
+convince
+Question: Fill in the blank. He managed to _______ her to go on a date.::Answer: convince
+Question: What is the English word for przekonać in Polish?::Answer: convince
+Question: Use the word 'convince' in a sentence.::Answer: I managed to convince my parents to buy me a new car.
+Question: What is the verb which means to make someone believe, or feel sure about something?::Answer: convince
+Question: What's the synonym of persuade in English?::Answer: convince
+
+consider
+Question: What is the verb 'consider' in a sentence?::Answer: I'll consider your proposal and let you know my decision by tomorrow.
+Question: Translate to English: "Rozważ moją propozycję".::Answer: Consider my proposal.
+Question: How to use 'consider' in negative sentence?::Answer: I don't consider it a good idea to travel at night.
+Question: Form a question using 'consider'.::Answer: Did you consider my suggestion about the new project?
+
+receivables 
+Question: Fill in the blank. The accounting department is in charge of tracking the company's ___.::Answer: Receivables
+
+Question: What is the term for the amount of money owed to a company by its customers?::Answer: Receivables
+
+Question: The financial statement shows a high amount of ___, indicating many clients have yet to pay.::Answer: Receivables
+
+Question: Translate to English: "Należności firmy wzrosły w ostatnim kwartale."::Answer: The company's receivables increased in the last quarter.
+
+investigation
+What is the English sentence for 'investigation'?::The police launched an investigation into the robbery.
+Can you use the word 'investigation' in a sentence?::The results of the investigation were inconclusive.
+How would you use 'investigation' in a sentence?::His sudden disappearance sparked an investigation.
+
+
+efficiency
+Question: Fill in the blank. The company increased its ____ by streamlining its processes.::Answer: Efficiency
+Question: What is the term for the ability to do something well or achieve a desired result without wasted energy or effort?::Answer: Efficiency
+Question: Use the word 'efficiency' in a sentence.::Answer: The efficiency of the team was greatly improved after the training.
+Question: Which word means the state or quality of being efficient?::Answer: Efficiency
+Question: Translate to English: "Efektywność pracy zespołu była dużo lepsza po szkoleniu."::Answer: The efficiency of the team was much better after the training.
+
+reusable
+Question: What is the adjective form of the verb "to reuse"?::Answer: The adjective form is "reusable".
+Question: Can you form a sentence with the word "reusable"?::Answer: "We should use reusable bags to reduce plastic waste."
+Question: What does the word "reusable" mean?::Answer: "Reusable" means able to be used again or repeatedly.
+Question: Is a glass water bottle considered reusable?::Answer: Yes, a glass water bottle is considered reusable.
+
+embedded
+1. What is the past tense of the verb "embed"?::embedded
+2. Form a sentence using the word "embedded".::The precious stone was embedded in the crown.
+3. What is the adjective form of the verb "embed"?::embedded
+4. Use "embedded" in a sentence to describe a feeling.::Her fear was deeply embedded.
+5. What does "embedded" mean?::Embedded means fixed into a surrounding mass.
+
+not applicable 
+Question: What is the English translation of the Polish word "książka"?::Answer: The English translation of the Polish word "książka" is "book".
+Question: Use the word "beautiful" in a sentence.::Answer: The sunset was incredibly beautiful.
+Question: What is the English equivalent of the Polish word "samochód"?::Answer: The English equivalent of the Polish word "samochód" is "car".
+Question: Construct a sentence using the word "delicious".::Answer: The apple pie was absolutely delicious.
+
+dry run 
+Question: Can you use the term 'dry run' in a sentence?::Answer: Before the final presentation, we did a dry run to ensure everything was perfect.
+Question: What does 'dry run' mean?::Answer: A 'dry run' refers to a practice or rehearsal of a procedure or process.
+
+fluffy
+What is the English word for something that is soft and light?::fluffy
+Can you describe the texture of a rabbit's fur using an adjective?::fluffy
+What is the adjective that describes a cloud's appearance?::fluffy
+How would you describe a pillow that is soft and comfortable?::fluffy
+What is the English term for something that feels like cotton or wool?::fluffy
+
+apart from
+What is the English sentence using 'apart from'?::Apart from studying English, I also enjoy playing soccer.
+What is another example of using 'apart from' in a sentence?::Apart from her, everyone else at the party was from Poland.
+Can you give me another sentence using 'apart from'?::Apart from a few spelling mistakes, his essay was perfect.
+
+useless
+What is the English sentence for using the word 'useless'?::His attempts to fix the computer were useless, it was too damaged.
+Can you form a sentence using the word 'useless'?::I feel useless when I can't help my friends.
+What does 'useless' mean in this sentence: The old map was useless for the current journey?::The old map was not helpful or beneficial for the current journey.
+What is the opposite of 'useless' in English?::Useful.
+
+encouraging
+Question: Fill in the blank. Your words are very ________ for me. :: Answer: encouraging
+Question: What is the adjective form of the verb "encourage"? :: Answer: encouraging
+Question: Make a sentence using the word "encouraging". :: Answer: His teacher's encouraging words boosted his confidence.
+Question: What's the meaning of "encouraging" in English? :: Answer: Giving someone support or hope.
+
+fair
+Question: What is the English sentence using the word 'fair'?::The judgment was fair and just.
+Question: How do you use 'fair' in a sentence about a festival?::Every year we go to the county fair.
+Question: Can you make a sentence using 'fair' to describe someone's appearance?::She has fair skin and light eyes.
+Question: How to use 'fair' in a sentence to describe a situation?::It's not fair that he gets all the credit for our work.
+Question: Can you make a sentence using 'fair' to describe weather?::The weather is fair today, perfect for a picnic.
+
+performance
+Question: Fill in the blank. The actor's ___________ was outstanding.::Answer: performance
+Question: What is the noun form of "perform"?::Answer: performance
+Question: Use the word "performance" in a sentence.::Answer: The performance of the orchestra was breathtaking.
+Question: What is the synonym of the word "performance"?::Answer: presentation, show
+Question: Can you give an antonym for the word "performance"?::Answer: nonperformance
+Question: What does "performance" mean in the context of a play or concert?::Answer: It refers to the act of staging or presenting a play, concert, or other form of entertainment.
+Question: Translate the word "performance" to Polish.::Answer: występ
+
+afford
+Question: Fill in the blank. I can't ___ to buy a new car right now.::Answer: afford
+Question: What is the past tense of 'afford'?::Answer: afforded
+Question: Use 'afford' in a sentence.::Answer: I can afford to go on vacation this summer.
+Question: What's the noun form of 'afford'?::Answer: affordability
+Question: What does 'afford' mean?::Answer: have enough money to pay for something.
+
+afraid
+What is the English sentence for "I am afraid of spiders."?::I am afraid of spiders.
+Fill in the blank "Don't be ______ of the dark."::afraid.
+Translate to English "On jest przerażony."::He is afraid.
+Complete the sentence "She was ______ to speak in public."::afraid.
+
+indication
+Question: What is the indication of his success?::Answer: His new house and car are an indication of his success.
+
+Question: Can you give me an indication of the cost?::Answer: We can give you a rough indication of the cost after the inspection.
+
+Question: What is the English word for 'wskazówka' in Polish?::Answer: The English word for 'wskazówka' in Polish is 'indication'. 
+
+Question: Use the word 'indication' in a sentence.::Answer: His constant coughing is an indication of his poor health. 
+
+Question: What does 'indication' mean?::Answer: 'Indication' means a sign or piece of information that indicates something.
+
+charity
+Question: Fill in the blank. He donated a large sum of money to ______. :: Answer: charity
+Question: What is the English word for an organization set up to provide help and raise money for those in need? :: Answer: charity
+Question: Use the word charity in a sentence. :: Answer: She runs a charity that helps homeless people.
+Question: What is the term for the act of giving money, food, or other kinds of help to people who are poor, sick, etc.? :: Answer: charity
+Question: What does the word 'charity' mean? :: Answer: Charity is the act of giving help to the needy or the organizations that do this work
+
+reliable
+Question: Fill in the blank: You can always count on John, he is very ___.::Answer: reliable
+Question: What is the adjective that describes someone or something that is consistently good in quality or performance?::Answer: reliable
+Question: Use the word "reliable" in a sentence.::Answer: My car is very reliable, it has never broken down.
+Question: What's the opposite of the word "reliable"?::Answer: unreliable
+Question: Translate to English: "Moje auto jest bardzo niezawodne."::Answer: My car is very reliable.
+

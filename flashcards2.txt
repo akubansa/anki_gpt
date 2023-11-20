@@ -1,4 +1,4 @@
-('Question: Which word fits this definition - 'A desire or hope for something to happen'? ',' Answer: wish')('Question: Correct the sentence: "I wish I can fly." ',' Answer: "I wish I could fly."
-')('Question: What is the past tense of the word 'wish'? ',' Answer: wished
-')('Question: Construct a sentence using the word 'wish'. ',' Answer: I wish I had a pet dog.
-')('Question: Which word fits this definition - 'A desire or hope for something to happen'? ',' Answer: wish')
+charity
+What is the English word for "dobroczynność"?::charity
+What is the Polish word for "charity"?::dobroczynność
+
