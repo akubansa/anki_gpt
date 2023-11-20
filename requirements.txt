@@ -1,5 +1,5 @@
-import openai
-import clipboard
-import urllib3==1.26.16
-import python-dotenv==0.21.0
-import pyperclip
+openai
+clipboard
+urllib3==1.26.16
+python-dotenv==0.21.0
+pyperclip
