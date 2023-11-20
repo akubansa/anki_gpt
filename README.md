@@ -16,10 +16,12 @@ pip install -r requirements.txt
 export OPENAI_API_KEY="your openai api key"
 ```
 
+3. Modyfiy path to file flashcards
+
+   
 # Run
 
 ```
 python anki_flashcards_with_gpt4.py
 ```
 
-3. Modyfiy path to file flashcards
