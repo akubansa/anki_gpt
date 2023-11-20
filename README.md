@@ -21,3 +21,5 @@ export OPENAI_API_KEY="your openai api key"
 ```
 python anki_flashcards_with_gpt4.py
 ```
+
+3. Modyfiy path to file flashcards
